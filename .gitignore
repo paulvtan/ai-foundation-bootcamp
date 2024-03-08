@@ -1,0 +1,19 @@
+# Next.js
+.next/
+
+# Output of the npm package manager
+node_modules/
+
+# Build artifacts
+/.next/
+/out/
+
+# Cache and logs
+/.npm/
+/.yarn/
+/yarn-error.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/.docz/
+.DS_Store
